@@ -4,6 +4,9 @@ import 'jquery';
 // Import everything from autoload
 import "./autoload/**/*"
 
+// Import Themeans base scripts
+import './themeans.js';
+
 // import local dependencies
 import Router from './util/Router';
 import common from './routes/common';

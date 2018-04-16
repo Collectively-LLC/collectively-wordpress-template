@@ -26,6 +26,8 @@
     "extends": "stylelint-config-standard",
     "rules": {
       "no-empty-source": null,
+      "indentation": null,
+      "no-missing-end-of-source-newline": null,
       "at-rule-no-unknown": [
         true,
         {
