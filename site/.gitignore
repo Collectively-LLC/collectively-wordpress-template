@@ -3,6 +3,8 @@ web/app/plugins/*
 !web/app/plugins/.gitkeep
 !web/app/plugins/updraftplus
 web/app/mu-plugins/*/
+!web/app/mu-plugins/themeans-functions
+!web/app/mu-plugins/your-site-functions
 web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep

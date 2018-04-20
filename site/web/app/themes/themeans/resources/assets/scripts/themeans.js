@@ -1,4 +1,4 @@
-/***** Universal Page Load JS *****/
+/***** Themeans Core JavaScript *****/
 /*eslint no-unused-vars: off*/ 
 
 window.Themeans = window.Themeans || {};
@@ -142,4 +142,4 @@ window.Themeans.fittext = function(target='.fittext') {
 
 
 
-/***** end Universal Page Load JS *****/
+/***** end Themeans Core JavaScript *****/
