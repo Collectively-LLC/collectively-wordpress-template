@@ -1,8 +1,7 @@
-# Documentation for KennedyBrothersPT.com
-Full project documentation for kennedybrotherspt.com, the main website for Kennedy Brothers Physical Therapy. It was built using the [Roots ecosystem](http://roots.io), which consists of the Trellis server environment automation, the Bedrock WordPress boilderplate, and the Sage starter theme.
+# Documentation for <Client>
+Full project documentation for kennedybrotherspt.com, the main website for <CLIENT>.  It was built using the [Roots ecosystem](http://roots.io), which consists of the Trellis server environment automation, the Bedrock WordPress boilderplate, and the Sage starter theme.
 
 **Product Owners**
-- Sue Bloom Brooks, KBPT, susan@kennedybrotherspt.com
 - Chip Kennedy, Collectively, chip@docollectively.com
 
 **Lead Developer**
